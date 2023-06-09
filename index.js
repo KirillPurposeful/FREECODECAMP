@@ -21,3 +21,11 @@ let firstLetterOfLastName = "";
 const lastNameTwo = "Lovelace";
 // Only change code below this line
 firstLetterOfLastName = lastNameTwo[0]; // Change this line
+
+//Understand String Immutability
+// Setup
+let myStrThree = "Jello World";
+
+// Only change code below this line
+myStrThree = "Hello World"; // Change this line
+// Only change code above this line
